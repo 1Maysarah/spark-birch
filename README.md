@@ -1,2 +1,2 @@
-# Parallel BIRCH Clustering on Spark
+[![Run on Repl.it](https://repl.it/badge/github/1Maysarah/spark-birch)](https://repl.it/github/1Maysarah/spark-birch)# Parallel BIRCH Clustering on Spark
 ## This is a Spark implementation of BIRCH clustering algorithm.
